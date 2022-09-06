@@ -1,2 +1,2 @@
 #!/bin/bash
-$ perl -le 'print hex("FF");'
+$ printf "%d\n" 0xFF
